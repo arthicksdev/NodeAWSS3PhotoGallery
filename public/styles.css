@@ -1,0 +1,14 @@
+
+body{
+    background-color:#e1e1e1;
+}
+
+.photo{
+    width:250px;
+    height:145px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+    margin:10px;
+    box-shadow: 5px 6px 3px #aaa;
+}
