@@ -12,6 +12,10 @@ Listed below are a few of the frameworks this project is using:
  
 ### Bonus Addons 
 * Moment 
+
+### How to setup a AWS S3 Bucket
+Here is a quick #howto I put together on how to setup a bucket/folder for your images.
+:movie_camera: [How to quickly setup a public share folder on Amazon AWS S3 ](https://youtu.be/s96Me-7T4Pw)  
  
 We will periodically update this project based on available time and requests from the #dev community. 
 
